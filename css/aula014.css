@@ -10,8 +10,8 @@ body {
     position: relative;
 }
 
-img {
-    width: 150px;
+i {
+    font-size: 100px;
     cursor: pointer;
     position: fixed;
     right: 20px;
