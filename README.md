@@ -1,23 +1,24 @@
-# 📚 Aulas HTML
+# Aulas-Html
 
-Repositório criado para armazenar exercícios, exemplos e projetos desenvolvidos durante os estudos de HTML.
+Repositorio de estudos com aulas, exercicios e exemplos praticos de HTML e CSS. O objetivo e acompanhar a evolucao nos fundamentos de desenvolvimento web e manter um historico organizado dos arquivos criados em aula.
 
-## 🚀 Objetivo
+## Conteudo
 
-Este projeto tem como objetivo praticar os fundamentos do desenvolvimento web utilizando HTML, além de servir como material de apoio para aprendizado e evolução na área de Front-End.
+- Paginas HTML numeradas por aula.
+- Arquivos CSS separados para praticar estilizacao.
+- Imagens usadas nos exercicios.
+- Exemplos introdutorios de estrutura, semantica e layout.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias
 
 - HTML5
-- CSS3 *(caso utilize depois)*
+- CSS3
 - Git e GitHub
 
-## 📂 Estrutura do Projeto
+## Como visualizar
 
-```bash
-Aulas-Html/
-│
-├── index.html
-├── imagens/
-├── estilos/
-└── README.md
+Acesse pelo GitHub Pages:
+
+https://matheusgdqueiroz-del.github.io/Aulas-Html/
+
+Tambem e possivel baixar o repositorio e abrir os arquivos `.html` diretamente no navegador.
